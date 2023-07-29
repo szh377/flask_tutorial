@@ -1,1 +1,2 @@
-DEBUG = True  //デバックモードがonにならない flask --debug runはいける
+DEBUG = True  #デバックモードがonにならない flask --debug runはいける
+
